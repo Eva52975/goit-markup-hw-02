@@ -11,7 +11,7 @@ a {
 ul {
   list-style: none;
 }
-
+/* ================HEADER===================== */
 .logo {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
@@ -56,6 +56,9 @@ ul {
   color: #404bbf;
 }
 
+/* ====================================== */
+
+/* ==================HERO======================== */
 .hero {
   background-color: #2e2f42;
 }
@@ -79,6 +82,10 @@ ul {
 .hero-button:focus {
   background: #404bbf;
 }
+
+/* ======================================== */
+
+/* =================ADVANTAGES======================== */
 
 .advantages-title {
   color: #2e2f42;
@@ -106,6 +113,10 @@ ul {
   letter-spacing: 0.02em;
 }
 
+/* ================================= */
+
+/* ==============TEAM==================== */
+
 .team-title {
   color: #2e2f42;
   text-align: center;
@@ -131,6 +142,10 @@ ul {
   letter-spacing: 0.02em;
 }
 
+/* ================================ */
+
+/* =============PORTFOLIO===================== */
+
 .portfolio-title {
   color: #2e2f42;
   text-align: center;
@@ -151,6 +166,35 @@ ul {
 
 .portfolio-text {
   color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+/* ============================== */
+
+/* =============FOOTER================== */
+.footer {
+  background-color: #2e2f42;
+}
+
+.footer-logo {
+  color: #4d5ae5;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.footer-logo-part {
+  color: #f4f4fd;
+}
+
+.footer-text {
+  color: #f4f4fd;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
